@@ -42,7 +42,7 @@
     },
     "replace": {
         "tymon/jwt-auth": "dev-develop#f72b8eb as 1.0.0-rc.3.2"
-    }
+    },
     "autoload": {
         "psr-4": {
             "Tymon\\JWTAuth\\": "src/"
